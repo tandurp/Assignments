@@ -5,17 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="732e7c83-8b83-4648-ad4d-7c1a5cdb3f7f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/assignment5/Assignment51.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/assignment5/Assignment52.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/assignment5/Assignment53.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/assignment6/Assignment61.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/assignment6/Assignment62.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -32,9 +39,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Assignet21.executor": "Run",
+    "Application.Assignment11.executor": "Run",
     "Application.Assignment12.executor": "Run",
     "Application.Assignment22.executor": "Run",
     "Application.Assignment23.executor": "Run",
+    "Application.Assignment51.executor": "Run",
+    "Application.Assignment52.executor": "Run",
+    "Application.Assignment53.executor": "Run",
+    "Application.Assignment61.executor": "Run",
+    "Application.Assignment62.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",

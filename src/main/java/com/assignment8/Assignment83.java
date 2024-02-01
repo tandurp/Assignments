@@ -12,15 +12,17 @@ public class Assignment83 {
 }
 class BankAccount{
     Scanner sc = new Scanner(System.in);
-    int depositCash = sc.nextInt();
-    int withdrawCash = sc.nextInt();
+    int depositCash;
+    int withdrawCash;
 
     public void deposit(){
-        System.out.println("Entered cash to do the deposit is: " +depositCash);
+        System.out.println("Enter cash to do the deposit:");
+        depositCash = sc.nextInt();
 
     }
     public void withdraw(){
-        System.out.println("Entered amount to do the withdraw is: " +withdrawCash);
+        System.out.println("Enter amount to do the withdraw:");
+        withdrawCash = sc.nextInt();
         int balance = depositCash-withdrawCash;
         System.out.println("The balance after withdrawal is: " +balance);
 

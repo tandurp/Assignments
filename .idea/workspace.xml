@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="732e7c83-8b83-4648-ad4d-7c1a5cdb3f7f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/assignment6/Assignment63.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/assignment7/Assignment71.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/assignment7/Assignment72.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/assignment7/Assignment73.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/assignment7/Assignment74.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/assignment7/Assignment75.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/assignment8/Assignment81.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/assignment8/Assignment82.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/assignment8/Assignment83.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +53,14 @@
     "Application.Assignment61.executor": "Run",
     "Application.Assignment62.executor": "Run",
     "Application.Assignment63.executor": "Run",
+    "Application.Assignment71.executor": "Run",
+    "Application.Assignment72.executor": "Debug",
+    "Application.Assignment73.executor": "Run",
+    "Application.Assignment74.executor": "Run",
+    "Application.Assignment75.executor": "Run",
+    "Application.Assignment81.executor": "Run",
+    "Application.Assignment82.executor": "Run",
+    "Application.Assignment83.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -53,6 +69,40 @@
     "onboarding.tips.debug.path": "C:/Users/tandu/Assignments/src/main/java/org/example/Main.java"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Assignment74" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.assignment7.Assignment74" />
+      <module name="Assignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.assignment7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Assignment83" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.assignment8.Assignment83" />
+      <module name="Assignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.assignment8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Assignment83" />
+        <item itemvalue="Application.Assignment74" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -74,11 +124,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/assignment6/Assignment63.java</url>
           <line>48</line>
